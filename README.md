@@ -1,4 +1,4 @@
-<h1 align="left">Hello World 👋 My name is Miles Maloka, Aspiring Software Engineer!</h1>
+<h1 align="left">Hello World 👋 My name is Miles Maloka, Aspiring Data Science/Data Engineer!</h1>
 
 ###
 
