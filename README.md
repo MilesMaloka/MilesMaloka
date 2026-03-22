@@ -36,8 +36,11 @@
   <a href="https://www.linkedin.com/in/miles-maloka-matsobane/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
+  <!-- https://x.com/milesmmaloka -->
    <a href="https://www.instagram.com/milesmaloka/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+      <a href="https://x.com/milesmmaloka" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=x&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="x logo"  />
   </a>
 </div>
 
